@@ -8,3 +8,5 @@ create a deployment in kubernets
 scale the deployment to 5 replica
 expose the deployment using a nord port service
 access the application in the browser using minikube service command
+
+could u give me the uml diagram hospital management system
